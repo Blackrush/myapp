@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="hello_world">Salut le Monde!</string>
+    <string name="click_me">Clic moi!</string>
+    <string name="toast">wow very toasty so impressive (fr)</string>
+    <string name="pokedex">Pokédex</string>
+</resources>
